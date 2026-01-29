@@ -4,3 +4,5 @@ bin/
 *.exe
 CMakeCache.txt
 CMakeFiles/
+trial.cpp
+what_to_do.cpp
